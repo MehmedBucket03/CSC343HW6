@@ -1,5 +1,5 @@
 public class SharedVariable {
-    // hared variable
+    // Shared variable
     private static String sharedData = "";
     private static final Object lock = new Object(); // Mutex equivalent
 
